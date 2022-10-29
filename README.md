@@ -21,3 +21,7 @@ This repository contains the following mods made for FOnline: 2238/Reloaded:
 **TTUI** - Updated TINY TANK Interface by Jinxed Jack
 
 **TTUIC** - Updated TINY TANK Interface, Combat version by Jinxed Jack
+
+Interfaces are for FOnline: 2238/Reloaded/Reloaded S2 @391 in Revision 5
+
+Interfaces are for FOnline: Reloaded S3/Aftertimes S2/Reloaded S2 @412 in Revision 6

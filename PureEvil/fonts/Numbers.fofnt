@@ -1,383 +1,384 @@
+Version  2
 Image	Numbers.png			
 YAdvance	0			
 				
-Letter	32	#	'	'
+Letter	'	'
 	PositionX	1		
 	PositionY	154		
 	XAdvance	30		
 				
-Letter	48	#	'0'	
+Letter	'0'	
 	PositionX	0		
 	PositionY	1		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	49	#	'1'	
+Letter	'1'	
 	PositionX	30		
 	PositionY	1		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	50	#	'2'	
+Letter	'2'	
 	PositionX	60		
 	PositionY	1		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	51	#	'3'	
+Letter	'3'	
 	PositionX	90		
 	PositionY	1		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	52	#	'4'	
+Letter	'4'	
 	PositionX	120		
 	PositionY	1		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	53	#	'5'	
+Letter	'5'	
 	PositionX	150		
 	PositionY	1		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	54	#	'6'	
+Letter	'6'	
 	PositionX	180		
 	PositionY	1		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	55	#	'7'	
+Letter	'7'	
 	PositionX	210		
 	PositionY	1		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	56	#	'8'	
+Letter	'8'	
 	PositionX	240		
 	PositionY	1		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	57	#	'9'	
+Letter	'9'	
 	PositionX	270		
 	PositionY	1		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	58	#	':'	
+Letter	':'	
 	PositionX	300		
 	PositionY	1		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	59	#	';'	
+Letter	';'	
 	PositionX	300		
 	PositionY	1		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	60	#	'<'	
+Letter	'<'	
 	PositionX	300		
 	PositionY	1		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	61	#	'='	
+Letter	'='	
 	PositionX	300		
 	PositionY	154		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	64	#	'@'	
+Letter	'@'	
 	PositionX	0		
 	PositionY	52		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	65	#	'A'	
+Letter	'A'	
 	PositionX	30		
 	PositionY	52		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	66	#	'B'	
+Letter	'B'	
 	PositionX	60		
 	PositionY	52		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	67	#	'C'	
+Letter	'C'	
 	PositionX	90		
 	PositionY	52		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	68	#	'D'	
+Letter	'D'	
 	PositionX	120		
 	PositionY	52		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	69	#	'E'	
+Letter	'E'	
 	PositionX	150		
 	PositionY	52		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	70	#	'F'	
+Letter	'F'	
 	PositionX	180		
 	PositionY	52		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	71	#	'G'	
+Letter	'G'	
 	PositionX	210		
 	PositionY	52		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	72	#	'H'	
+Letter	'H'	
 	PositionX	240		
 	PositionY	52		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	73	#	'I'	
+Letter	'I'	
 	PositionX	270		
 	PositionY	52		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	74	#	'J'	
+Letter	'J'	
 	PositionX	300		
 	PositionY	52		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	75	#	'K'	
+Letter	'K'	
 	PositionX	300		
 	PositionY	52		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	76	#	'L'	
+Letter	'L'	
 	PositionX	300		
 	PositionY	52		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	77	#	'M'	
+Letter	'M'	
 	PositionX	300		
 	PositionY	142		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	80	#	'P'	
+Letter	'P'	
 	PositionX	0		
 	PositionY	103		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	81	#	'Q'	
+Letter	'Q'	
 	PositionX	30		
 	PositionY	103		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	82	#	'R'	
+Letter	'R'	
 	PositionX	60		
 	PositionY	103		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	83	#	'S'	
+Letter	'S'	
 	PositionX	90		
 	PositionY	103		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	84	#	'T'	
+Letter	'T'	
 	PositionX	120		
 	PositionY	103		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	85	#	'U'	
+Letter	'U'	
 	PositionX	150		
 	PositionY	103		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	86	#	'V'	
+Letter	'V'	
 	PositionX	180		
 	PositionY	103		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	87	#	'W'	
+Letter	'W'	
 	PositionX	210		
 	PositionY	103		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	88	#	'X'	
+Letter	'X'	
 	PositionX	240		
 	PositionY	103		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	89	#	'Y'	
+Letter	'Y'	
 	PositionX	270		
 	PositionY	103		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	90	#	'Z'	
+Letter	'Z'	
 	PositionX	300		
 	PositionY	103		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	91	#	'['	
+Letter	'['	
 	PositionX	300		
 	PositionY	103		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	92	#	'\'	
+Letter	'\'	
 	PositionX	300		
 	PositionY	103		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	93	#	']'	
+Letter	']'	
 	PositionX	300		
 	PositionY	142		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	96	#	'`'	
+Letter	'`'	
 	PositionX	300		
 	PositionY	142		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	97	#	'a'	
+Letter	'a'	
 	PositionX	300		
 	PositionY	142		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	98	#	'b'	
+Letter	'b'	
 	PositionX	300		
 	PositionY	142		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	99	#	'c'	
+Letter	'c'	
 	PositionX	300		
 	PositionY	142		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	100	#	'd'	
+Letter	'd'	
 	PositionX	300		
 	PositionY	142		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	101	#	'e'	
+Letter	'e'	
 	PositionX	300		
 	PositionY	142		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	103	#	'f'	
+Letter	'f'	
 	PositionX	300		
 	PositionY	142		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	103	#	'g'	
+Letter	'g'	
 	PositionX	300		
 	PositionY	142		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	104	#	'h'	
+Letter	'h'	
 	PositionX	300		
 	PositionY	142		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	105	#	'i'	
+Letter	'i'	
 	PositionX	300		
 	PositionY	142		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	106	#	'j'	
+Letter	'j'	
 	PositionX	300		
 	PositionY	142		
 	Width	30		
 	Height	49		
 	XAdvance	30		
 				
-Letter	107	#	'k'	
+Letter	'k'	
 	PositionX	300		
 	PositionY	142		
 	Width	30		
