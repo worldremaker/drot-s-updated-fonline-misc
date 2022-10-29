@@ -24,4 +24,6 @@ This repository contains the following mods made for FOnline: 2238/Reloaded:
 
 Interfaces are for FOnline: 2238/Reloaded/Reloaded S2 @391 in Revision 5
 
-Interfaces are for FOnline: Reloaded S3/Aftertimes S2/Reloaded S2 @412 in Revision 6
+Interfaces are for FOnline: Reloaded S3/Aftertimes S2/Aftertimes S3/Reloaded S2 @412 in Revision 6
+
+Interfaces are for FOnline: Reloaded S4 @FOClassic in Revision 7
